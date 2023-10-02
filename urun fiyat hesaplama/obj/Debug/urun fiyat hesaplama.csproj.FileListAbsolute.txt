@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\urun fiyat hesaplama\urun fiyat hesaplama\obj\Debug\urun fiyat hesaplama.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\urun fiyat hesaplama\urun fiyat hesaplama\obj\Debug\urun fiyat hesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\urun fiyat hesaplama\urun fiyat hesaplama\obj\Debug\urun_fiyat_hesaplama.lblFiyat.resources
+C:\Users\User\source\repos\urun fiyat hesaplama\urun fiyat hesaplama\obj\Debug\urun_fiyat_hesaplama.Properties.Resources.resources
+C:\Users\User\source\repos\urun fiyat hesaplama\urun fiyat hesaplama\obj\Debug\urun fiyat hesaplama.csproj.GenerateResource.cache
+C:\Users\User\source\repos\urun fiyat hesaplama\urun fiyat hesaplama\obj\Debug\urun fiyat hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\urun fiyat hesaplama\urun fiyat hesaplama\bin\Debug\urun fiyat hesaplama.exe.config
+C:\Users\User\source\repos\urun fiyat hesaplama\urun fiyat hesaplama\bin\Debug\urun fiyat hesaplama.exe
+C:\Users\User\source\repos\urun fiyat hesaplama\urun fiyat hesaplama\bin\Debug\urun fiyat hesaplama.pdb
+C:\Users\User\source\repos\urun fiyat hesaplama\urun fiyat hesaplama\obj\Debug\urun fiyat hesaplama.exe
+C:\Users\User\source\repos\urun fiyat hesaplama\urun fiyat hesaplama\obj\Debug\urun fiyat hesaplama.pdb
